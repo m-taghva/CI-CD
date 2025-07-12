@@ -1,5 +1,3 @@
-# CI-CD
-
 # Simple Node.js App with CI/CD
 
 This is a simple Node.js application with GitHub Actions CI/CD pipeline.
